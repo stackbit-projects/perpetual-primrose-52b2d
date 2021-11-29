@@ -134,7 +134,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -263,7 +263,7 @@ sections:
       altText: Hero section image
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
